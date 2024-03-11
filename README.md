@@ -1,6 +1,6 @@
 # Challenge_Covid19_in_India_Analysis
 
-Data source: Kaggle.
+Data source: Kaggle
 
 BI Tool: Tableau
 
